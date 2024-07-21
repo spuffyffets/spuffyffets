@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/spuffyffets__" target="blank"><img src="https://img.shields.io/twitter/follow/spuffyffets__?logo=twitter&style=for-the-badge" alt="spuffyffets__" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **HTML, CSS, JSS**
+- 💬 Ask me about **HTML, CSS, JSS, JAVA, REACT**
 
 - 📫 How to reach me **suchitchaudhari17@gmail.com**
 
