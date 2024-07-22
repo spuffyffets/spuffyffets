@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suchit Chaudhari</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9c891cce-96c1-4981-b154-3950209b3c9f)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/54adabbe-e9e9-40f4-b547-c802ad00ba96)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spuffyffets&label=Profile%20views&color=0e75b6&style=flat" alt="spuffyffets" /> </p>
