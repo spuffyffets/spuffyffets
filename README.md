@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/spuffyffets](https://github.com/spuffyffets)
 
-- 💬 Ask me about **HTML, CSS, JSS ,React JS**
+- 💬 Ask me about **HTML, CSS, JSS ,React JS,JAVA**
 
 - 📫 How to reach me **suchitchaudhari17@gmail.com**
 
