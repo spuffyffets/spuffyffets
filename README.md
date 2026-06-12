@@ -132,17 +132,18 @@ With practical industry experience and strong foundations in Data Structures, Ob
 </p>
 
 ---
+# Software Engineering Expertise
 
-# AI / ML Expertise
-
-| Domain           | Proficiency  | Details                                    |
-| ---------------- | ------------ | ------------------------------------------ |
-| Machine Learning | Intermediate | Classification, Regression, Model Training |
-| Deep Learning    | Intermediate | Neural Networks & Pattern Recognition      |
-| Data Analytics   | Intermediate | Data Processing & Visualization            |
-| Generative AI    | Intermediate | Prompt Engineering & AI Workflows          |
-| NLP              | Beginner     | Text Processing & Language Models          |
-| AI Integration   | Intermediate | AI-Powered Application Development         |
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Backend Development | Advanced | Java, Spring Boot, REST API Development |
+| Full Stack Development | Intermediate | Angular, Spring Boot, MySQL |
+| Microservices Architecture | Intermediate | API Gateway, Service Communication, Distributed Systems |
+| Database Management | Intermediate | MySQL, Redis, TiDB, Query Optimization |
+| Cloud Technologies | Intermediate | AWS EC2, AWS S3, Cloud Deployment |
+| Software Architecture | Intermediate | Layered Architecture, SDLC, Agile Methodologies |
+| DevOps & Tooling | Intermediate | Docker, Git, GitHub, Maven, CI/CD |
+| Problem Solving | Intermediate | Data Structures, OOP, Debugging, System Design Fundamentals |
 
 ---
 
